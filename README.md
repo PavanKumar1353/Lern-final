@@ -1,24 +1,24 @@
 # Lern-final
 
-Step -1
+<h2>Step -1</h2>
 <h3> Clone into your Local system usin the command </h3>
- git clone https://github.com/PavanKumar1353/LernApplicationMERNstack.git
+<p>git clone https://github.com/PavanKumar1353/LernApplicationMERNstack.git</p>
 
-Step -2
-Then open the folder (Navigate through terminal)
-cd LernApplicationMERNstack
+<h2>Step -2</h2>
+<h3>Then open the folder (Navigate through terminal)</h3>
+<p>cd LernApplicationMERNstack</p>
 
-Step -3
-Navigate into SERVER folder
-cd server 
-npm install
-npm run dev
+<h2>Step -3</h2>
+<h3>Navigate into SERVER folder</h3>
+<p>cd server <br>
+npm install<br>
+npm run dev</p>p
 
-Step -4
-Navigate into CLIENT folder
-cd client 
-npm install
-npm run dev
+<h2>Step -4</h2>
+h3>Navigate into CLIENT folder</h3>
+<p>cd client <br>
+npm install<br>
+npm run dev</p>p
 
 
 

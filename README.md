@@ -1,4 +1,4 @@
-# Lern-final
+# Lern Application Execution Process
 
 <h2>Step -1</h2>
 <h3> Clone into your Local system usin the command </h3>
@@ -15,7 +15,7 @@ npm install<br>
 npm run dev</p>
 
 <h2>Step -4</h2>
-h3>Navigate into CLIENT folder</h3>
+<h3>Navigate into CLIENT folder</h3>
 <p>cd client <br>
 npm install<br>
 npm run dev</p>

@@ -12,13 +12,13 @@
 <h3>Navigate into SERVER folder</h3>
 <p>cd server <br>
 npm install<br>
-npm run dev</p>p
+npm run dev</p>
 
 <h2>Step -4</h2>
 h3>Navigate into CLIENT folder</h3>
 <p>cd client <br>
 npm install<br>
-npm run dev</p>p
+npm run dev</p>
 
 
 
